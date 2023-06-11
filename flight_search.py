@@ -4,7 +4,7 @@ import requests
 from flight_data import FlightData
 from pprint import pprint
 
-API_KEY = os.environ.get("API_KEY")
+API_KEY = "pBjMT08fJ2j9Z2Jn0JwhbDVzfBfG9d4U"
 
 TEQUILA_ENDPOINT = "https://api.tequila.kiwi.com"
 LOCATIONS_ENDPOINT = f"{TEQUILA_ENDPOINT}/locations/query?"
