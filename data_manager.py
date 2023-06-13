@@ -1,7 +1,7 @@
 import os
 import mysql.connector
 
-DB_HOST = "localhost"
+DB_HOST = "flightdb"
 DB_USER = "root"
 DB_PASSWORD = "Lili-2022"
 DB_NAME = "flightdb"
